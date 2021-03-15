@@ -1,7 +1,2 @@
 .DS_Store
-._.DS_Store
-._README.markdown
-._index.html
-._license.txt
-._style.css
-._.gitignore
+._*
