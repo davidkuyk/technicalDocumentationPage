@@ -1,7 +1,7 @@
-html, body {
+html,
+body {
   min-width: 290px;
-  color: #ffffff;
-  background-color: #30305D;
+  background-color: #e1e1f2;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
@@ -18,7 +18,7 @@ html, body {
 }
 
 header {
-  color: white;
+  color: rgb(35, 35, 35);
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -38,7 +38,7 @@ header {
 }
 
 #navbar li {
-  color: #ffffff;
+  color: rgb(35, 35, 35);
   border-top: 1px solid;
   list-style: none;
   position: relative;
@@ -48,7 +48,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: #ffffff;
+  color: rgb(35, 35, 35);
   text-decoration: none;
   cursor: pointer;
 }
@@ -62,7 +62,7 @@ header {
 }
 
 section article {
-  color: #ffffff;
+  color: rgb(35, 35, 35);
   margin: 15px;
   font-size: 0.96em;
 }
@@ -79,6 +79,7 @@ code {
   word-break: normal;
   word-wrap: normal;
   line-height: 2;
+  color: #f4f4f4;
   background-color: #202020;
   padding: 15px;
   margin: 10px;
@@ -88,18 +89,18 @@ code {
 
 @media only screen and (max-width: 815px) {
   /* For mobile phones: */
-  
+
   header {
     height: 15%;
   }
-  
+
   #navbar ul {
     border: 1px solid;
     height: 75%;
   }
 
   #navbar {
-    background-color: #30305D;
+    background-color: #e1e1f2;
     position: fixed;
     top: 0;
     padding: 0;
