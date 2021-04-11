@@ -22,7 +22,7 @@ This page was built as part of the freeCodeCamp Responsive Web Design certificat
 
 ## Installation
 
-[Click here](davidkuyk.github.io/technicaldocumentationpage/) to go to the site. Or, if you want to clone this repository, open your terminal and type:
+[Click here](https://davidkuyk.github.io/technicaldocumentationpage/) to go to the site. Or, if you want to clone this repository, open your terminal and type:
 
 ```sh
 git clone https://github.com/davidkuyk/technicalDocumentationPage.git
